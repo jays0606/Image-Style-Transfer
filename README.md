@@ -11,4 +11,4 @@ In the image transformation networks, only strided and fractionally strided conv
 
 Perceptual loss functions are defined as the functions that measure high- level perceptual and semantic differences between images. They utilize the loss network phi which are pretrained for image classification. This phi in this experiment is based on the 16-layer VGG network pretrained on the ImageNet dataset. The final loss function is shown below. 
 
-<img src="loss.png" height="300"/>
+<img src="loss.png" height="50"/>
