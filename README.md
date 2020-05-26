@@ -13,4 +13,25 @@ Perceptual loss functions are defined as the functions that measure high- level 
 
 <img src="loss.png" height="50"/>
 
+## Results
+Model trained on 'Starry Night' style. 
+<p align="center">
+    <img src="style/starry-night.jpg" height="200px">
+</p>
+
+<p align="center">
+    <img src="result/img1.jpg" height="300px">
+    <img src="result/fig1.png" height="300px">
+</p>
+
+<p align="center">
+    <img src="result/img2.jpg" height="300px">
+    <img src="result/fig2.png" height="300px">
+</p>
+
+<p align="center">
+    <img src="result/img3.jpg" height="300px">
+    <img src="result/fig3.png" height="300px">
+</p>
+
 
